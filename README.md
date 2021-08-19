@@ -1,7 +1,8 @@
 
-### Favori 重剑
 
 ![favicon](https://user-images.githubusercontent.com/13197560/130077947-ba3a2582-639e-4c78-918e-e571301b5c3d.png)
+
+### Favori 重剑
 
 I'm favori(重剑) 
 
