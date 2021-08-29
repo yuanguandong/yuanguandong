@@ -7,5 +7,6 @@
 - 👹  My motto is 'do what you love ant love what you do'
 - 😄  I like coding and design
 - 🕹  I'm in Chengdu now 
+- 📖  www.favori.cn
 
 
